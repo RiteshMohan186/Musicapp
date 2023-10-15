@@ -7,7 +7,7 @@ const Loginbox = () => {
 
         <div className="signup">
           <form>
-            <label htmlFor="chk" aria-hidden='true'>Sign-up</label>
+            <label htmlFor="chk" aria-hidden='true'>SIGN UP</label>
             <input type="text" name='txt' placeholder='username' required=""/>
             <input type="email" name='email' placeholder='email' required=""/>
             <input type="password" name="pswd" placeholder="Password" required=""/>
